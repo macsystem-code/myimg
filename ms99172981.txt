@@ -1,5 +1,0 @@
-﻿{
-  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
-  "Domain": "lamodashop.net",
-  "Id": "2e288759-cf96-4edd-8a61-97e410fb83f4"
-}
